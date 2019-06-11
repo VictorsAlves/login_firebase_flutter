@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "917777679812",
+    "firebase_url": "https://loginfirebase-738c9.firebaseio.com",
+    "project_id": "loginfirebase-738c9",
+    "storage_bucket": "loginfirebase-738c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917777679812:android:3861233bb5e03d22",
+        "android_client_info": {
+          "package_name": "com.victorsalves.login_firebase_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917777679812-nqrf61gk1njuersfqhuc9mgteqvqqh8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe6zNpqeTi8iSKRY13OvyQbSuIGD_5Obk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917777679812-nqrf61gk1njuersfqhuc9mgteqvqqh8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
